@@ -13,7 +13,7 @@ class Camino{
         DIRECCIONES direccionPrioritaria; /// Analizar en donde es mas util!!!:
 
         //POST: devuelve el casillero que tengas las coordenadas
-        //      ingresadas por parametro. En caso de que no exista devuelve NULL
+        //      ingresadas por parametro. En caso de que no exista devuelve NULL KKKKKKKRRRRRRR
         Casillero* obtenerCasillero(int coordenadaX,int coordenadaY);
 
     public:
